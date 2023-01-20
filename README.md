@@ -1,10 +1,8 @@
-### Hi there 👋
-
-<!--
-**AdrianBa12/AdrianBa12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+<div id="header" align="center">
+  <img src="https://tenor.com/es/view/rain-pixel-art-cyberpunk-gif-15872056" width="250" />
+  <h1 align="center"> Hi, I'm Seth </>
+  <h3 align="center"> I am a student of Computer Engineering and passionate about cybersecurity.</h3>
+</div>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
